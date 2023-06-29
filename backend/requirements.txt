@@ -1,0 +1,7 @@
+Django==4.1.9
+django-cors-headers==4.1.0
+djangorestframework==3.13.1
+daphne==3.0.2
+SimpleWebSocketServer==0.1.1
+
+mysqlclient==2.2.0
